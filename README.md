@@ -4,6 +4,8 @@
 
 WA-contact is a project aimed at providing users with a seamless way to export and manage their WhatsApp contacts. By extracting contact information from both personal chats and groups, users can gain insights into their network and utilize this data for various applications, such as marketing campaigns, personal networking, or data analysis.
 
+![Demo](media/demo.gif)
+
 ## Features 🫧
 
 - **Comprehensive Contact Export**: Export contacts from both personal chats and all groups where the user is a participant.
