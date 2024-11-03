@@ -1,0 +1,5 @@
+node_modules/
+clean-data/
+session/
+data.json
+package-lock.json
